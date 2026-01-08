@@ -19,3 +19,9 @@ mlops week 2 done\
     &emsp;prodcution staging archiving of models\
     &emsp;scenarios on how and where to use what\
     &emsp;did not do scenario 3 of aws
+
+08 January 2026
+mlops week 3 done\
+    &emsp;learnt why to create pipelines\
+    &emsp;learnt how to convert jupyter notebook to python file
+    &emsp;edited file to create pipeline with runid

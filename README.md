@@ -1,7 +1,8 @@
 # mlops-course
 
 05 January 2026
-mlops week 1 done (taxi prediction) 
+mlops week 1 done\
+    &ensp;basic ml linear regression model for taxi duration prediction
 
 07 January 2026
 mlops week 2.3 done  
@@ -11,7 +12,7 @@ mlops week 2.3 done
     &ensp;a good technique to find and maintain our logs
 
 08 Januray 2026
-mlops week 2 done
+mlops week 2 done\
     &ensp;learnt logging params models, autologging\
     &ensp;comparison and finding best params\
     &ensp;model registry\

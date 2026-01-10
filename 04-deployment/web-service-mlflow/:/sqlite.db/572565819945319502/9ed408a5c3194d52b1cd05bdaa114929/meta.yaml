@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/572565819945319502/9ed408a5c3194d52b1cd05bdaa114929/artifacts
+end_time: 1768063726719
+entry_point_name: ''
+experiment_id: '572565819945319502'
+lifecycle_stage: active
+run_id: 9ed408a5c3194d52b1cd05bdaa114929
+run_name: bemused-dove-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768063686600
+status: 3
+tags: []
+user_id: codespace

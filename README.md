@@ -28,5 +28,7 @@ mlops week 3 done\
 
 
 10 Januray 2026\
-mlops week 4.2 done\
-    &emsp;learnt how to use docker and deploy local model
+mlops week 4 \
+    &emsp;learnt how to use docker and deploy local mode\
+    &emsp;could not complete aws due to login issues\
+    &emsp; to do batching scoring using prepared script with mage\

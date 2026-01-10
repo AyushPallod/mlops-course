@@ -1,17 +1,17 @@
 # mlops-course
 
-05 January 2026
+05 January 2026\
 mlops week 1 done\
     &emsp;basic ml linear regression model for taxi duration prediction
 
-07 January 2026
+07 January 2026\
 mlops week 2.3 done  
     &emsp;learnt logging with mlflow\
     &emsp;learnt autologging\
     &emsp;found best parameters and applied on xgboost\
     &emsp;a good technique to find and maintain our logs
 
-08 Januray 2026
+08 Januray 2026\
 mlops week 2 done\
     &emsp;learnt logging params models, autologging\
     &emsp;comparison and finding best params\
@@ -20,13 +20,13 @@ mlops week 2 done\
     &emsp;scenarios on how and where to use what\
     &emsp;did not do scenario 3 of aws
 
-08 January 2026
+08 January 2026\
 mlops week 3 done\
     &emsp;learnt why to create pipelines\
     &emsp;learnt how to convert jupyter notebook to python file\
     &emsp;edited file to create pipeline with runid
 
 
-10 Januray 2026
+10 Januray 2026\
 mlops week 4.2 done\
     &emsp;learnt how to use docker and deploy local model

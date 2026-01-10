@@ -25,3 +25,8 @@ mlops week 3 done\
     &emsp;learnt why to create pipelines\
     &emsp;learnt how to convert jupyter notebook to python file\
     &emsp;edited file to create pipeline with runid
+
+
+10 Januray 2026
+mlops week 4.2 done\
+    &emsp;learnt how to use docker and deploy local model

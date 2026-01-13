@@ -32,3 +32,9 @@ mlops week 4 \
     &emsp;learnt how to use docker and deploy local mode\
     &emsp;could not complete aws due to login issues\
     &emsp; to do batching scoring using prepared script with mage\
+
+13 January 2026\
+mlops week5\
+    &emsp; confident with some theory now in all
+
+NOW WILL DO END TO END PROJECT FOR THE BEST KNOWLEDGE AND WILL DEPLOY
